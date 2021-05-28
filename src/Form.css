@@ -1,0 +1,32 @@
+.form-right-content{
+    border-radius: 35px;
+    background-color: black;
+    height: 500px;
+    width:500px;
+    margin: auto;
+    cursor: pointer;
+}
+.form-input{
+    color:skyblue;
+}
+.input{padding:15px;
+border: 5px solid aqua;
+width: 305px;
+display: flex;
+margin: auto;}
+
+button{
+    width: 105px;
+padding:10px;
+border-radius: 5px;
+}
+.form-input-btn:hover{
+ color:cornflowerblue
+}
+.showDataStyle{
+    display: flex;
+    background-color: rgb(159, 190, 214);
+    width: 700px;
+    border-radius: 10px;
+    justify-content: space-between;
+}
